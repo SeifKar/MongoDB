@@ -1,0 +1,9 @@
+{
+  "name": "mongodb-crud-operations",
+  "version": "1.0.0",
+  "description": "MongoDB CRUD operations for contact management",
+  "main": "mongodb_operations.js",
+  "dependencies": {
+    "mongodb": "^5.7.0"
+  }
+}
